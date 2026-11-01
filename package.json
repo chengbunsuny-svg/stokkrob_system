@@ -1,0 +1,10 @@
+{
+  "name": "stokkrob",
+  "private": true,
+  "scripts": {
+    "format": "prettier --write \"js/**/*.js\" \"css/**/*.css\" index.html",
+    "check": "prettier --check \"js/**/*.js\" \"css/**/*.css\"",
+    "test": "node --test tests/"
+  },
+  "devDependencies": { "prettier": "^3.3.0" }
+}

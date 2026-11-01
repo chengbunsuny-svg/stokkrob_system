@@ -1,0 +1,11 @@
+.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/extensions.json
+.idea/
+node_modules/
+# ទិន្នន័យពិតរបស់ហាង — កុំ commit ជាដាច់ខាត
+backups/
+stokkrob-backup-*.json
+stokkrob-*.csv
+*.env

@@ -1,0 +1,20 @@
+stokkrob/
+├── index.html                       ប៊ុនសុង
+├── css/
+│   ├── tokens, fonts, base, layout, components.css     ប៊ុនសុង
+│   └── screens/
+│       ├── login, pos, settings.css                    ប៊ុនសុង
+│       ├── products, receive, customers.css            ស្រីយ៉ុង
+│       └── dashboard, reports.css                      ស្រីណា
+├── js/
+│   ├── main.js                                         ប៊ុនសុង
+│   ├── core/ state · helpers · events · i18n · theme · icons · router   ប៊ុនសុង
+│   └── screens/
+│       ├── login, pos, settings.js                     ប៊ុនសុង
+│       ├── products, receive, customers.js             ស្រីយ៉ុង
+│       └── dashboard, reports.js                       ស្រីណា
+├── assets/ fonts/ (ttf, woff2, variable, licenses)  ·  icons/ (nav, ui, kpi)
+├── design/       រូបគំរូ ១៦ សន្លឹក, design-tokens.json, COLORS.md
+├── reference/    កូដដើមដែលដំណើរការរួច (កុំកែ)
+├── docs/         TEAM_PLAN, GIT_GUIDE, FILE_OWNERS, ARCHITECTURE
+└── .github/      គំរូ Pull Request/Issue, CODEOWNERS
